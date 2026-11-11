@@ -30,7 +30,7 @@ Menghitung nilai akhir dari tiga komponen dengan bobot **30% tugas + 30% UTS + 4
 <img src="screenshot/ss2 C2.png">  
 
 ### Latihan 3: Perulangan dan Array
-Menyimpan daftar nama mahasiswa dalam array lalu menampilkannya sebagai daftar bernomor dengan `foreach`. Awalnya terdapat empat nama, kemudian ditambah tiga nama (Raihan, Dimas, Fadhil) sehingga menjadi tujuh.
+Menyimpan daftar nama mahasiswa dalam array lalu menampilkannya sebagai daftar bernomor dengan `foreach`. Awalnya terdapat empat nama, kemudian ditambah tiga nama (Abdul, Gofar, Bhapp) sehingga menjadi tujuh.
 
 <img src="screenshot/ss3.png">  
 <img src="screenshot/ss3 juga.png">  
@@ -106,7 +106,7 @@ Pengujian:
 <img src="screenshot/ss8 juga lagi juga.png">  
 <img src="screenshot/ss8 juga lagi juga lagi.png">  
 
-## H. Pertanyaan Evaluasi
+## G. Pertanyaan Evaluasi
 
 1. **Apa perbedaan pemrosesan client-side dan server-side?**
    * *Jawaban:* Client-side diproses di browser pengguna, contohnya HTML, CSS, dan JavaScript. Server-side diproses di server, contohnya PHP: menerima permintaan, memproses input, menjalankan aturan aplikasi, lalu mengirim respons kembali. Browser hanya menerima hasil output (misalnya HTML), bukan kode PHP mentah.
